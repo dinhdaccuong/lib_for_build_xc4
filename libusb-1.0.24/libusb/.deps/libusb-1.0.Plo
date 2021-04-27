@@ -1,0 +1,46 @@
+libusb-1.0.lo: libusb-1.0.rc /usr/share/mingw-w64/include/winresrc.h \
+ /usr/x86_64-w64-mingw32/include/winuser.rh \
+ /usr/x86_64-w64-mingw32/include/commctrl.rh \
+ /usr/x86_64-w64-mingw32/include/dde.rh \
+ /usr/x86_64-w64-mingw32/include/winnt.rh \
+ /usr/share/mingw-w64/include/dlgs.h \
+ /usr/share/mingw-w64/include/winver.h \
+ /usr/share/mingw-w64/include/_mingw.h \
+ /usr/share/mingw-w64/include/_mingw_mac.h \
+ /usr/share/mingw-w64/include/_mingw_secapi.h \
+ /usr/share/mingw-w64/include/vadefs.h \
+ /usr/share/mingw-w64/include/sdks/_mingw_directx.h \
+ /usr/share/mingw-w64/include/sdks/_mingw_ddk.h \
+ /usr/share/mingw-w64/include/_mingw_unicode.h version.h version_nano.h
+
+/usr/share/mingw-w64/include/winresrc.h:
+
+/usr/x86_64-w64-mingw32/include/winuser.rh:
+
+/usr/x86_64-w64-mingw32/include/commctrl.rh:
+
+/usr/x86_64-w64-mingw32/include/dde.rh:
+
+/usr/x86_64-w64-mingw32/include/winnt.rh:
+
+/usr/share/mingw-w64/include/dlgs.h:
+
+/usr/share/mingw-w64/include/winver.h:
+
+/usr/share/mingw-w64/include/_mingw.h:
+
+/usr/share/mingw-w64/include/_mingw_mac.h:
+
+/usr/share/mingw-w64/include/_mingw_secapi.h:
+
+/usr/share/mingw-w64/include/vadefs.h:
+
+/usr/share/mingw-w64/include/sdks/_mingw_directx.h:
+
+/usr/share/mingw-w64/include/sdks/_mingw_ddk.h:
+
+/usr/share/mingw-w64/include/_mingw_unicode.h:
+
+version.h:
+
+version_nano.h:
