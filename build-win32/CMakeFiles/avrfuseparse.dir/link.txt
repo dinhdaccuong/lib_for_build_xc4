@@ -1,0 +1,3 @@
+/usr/bin/cmake -E remove -f CMakeFiles/avrfuseparse.dir/objects.a
+/usr/bin/i686-w64-mingw32-ar cr CMakeFiles/avrfuseparse.dir/objects.a @CMakeFiles/avrfuseparse.dir/objects1.rsp
+/usr/bin/i686-w64-mingw32-g++  -g -Wall  -static-libstdc++ -static-libgcc -Wl,--whole-archive CMakeFiles/avrfuseparse.dir/objects.a -Wl,--no-whole-archive  -o avrfuseparse.exe -Wl,--out-implib,libavrfuseparse.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles/avrfuseparse.dir/linklibs.rsp

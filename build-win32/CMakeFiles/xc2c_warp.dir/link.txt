@@ -1,0 +1,3 @@
+/usr/bin/cmake -E remove -f CMakeFiles/xc2c_warp.dir/objects.a
+/usr/bin/i686-w64-mingw32-ar cr CMakeFiles/xc2c_warp.dir/objects.a @CMakeFiles/xc2c_warp.dir/objects1.rsp
+/usr/bin/i686-w64-mingw32-g++  -g -Wall  -static-libstdc++ -static-libgcc -Wl,--whole-archive CMakeFiles/xc2c_warp.dir/objects.a -Wl,--no-whole-archive  -o xc2c_warp.exe -Wl,--out-implib,libxc2c_warp.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles/xc2c_warp.dir/linklibs.rsp

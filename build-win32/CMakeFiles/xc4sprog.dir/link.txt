@@ -1,0 +1,3 @@
+/usr/bin/cmake -E remove -f CMakeFiles/xc4sprog.dir/objects.a
+/usr/bin/i686-w64-mingw32-ar cr CMakeFiles/xc4sprog.dir/objects.a @CMakeFiles/xc4sprog.dir/objects1.rsp
+/usr/bin/i686-w64-mingw32-g++  -g -Wall  -static-libstdc++ -static-libgcc -Wl,--whole-archive CMakeFiles/xc4sprog.dir/objects.a -Wl,--no-whole-archive  -o xc4sprog.exe -Wl,--out-implib,libxc4sprog.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles/xc4sprog.dir/linklibs.rsp

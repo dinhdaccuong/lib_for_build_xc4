@@ -1,0 +1,3 @@
+/usr/bin/cmake -E remove -f CMakeFiles/detectchain.dir/objects.a
+/usr/bin/i686-w64-mingw32-ar cr CMakeFiles/detectchain.dir/objects.a @CMakeFiles/detectchain.dir/objects1.rsp
+/usr/bin/i686-w64-mingw32-g++  -g -Wall  -static-libstdc++ -static-libgcc -Wl,--whole-archive CMakeFiles/detectchain.dir/objects.a -Wl,--no-whole-archive  -o detectchain.exe -Wl,--out-implib,libdetectchain.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles/detectchain.dir/linklibs.rsp

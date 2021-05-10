@@ -1,0 +1,3 @@
+/usr/bin/cmake -E remove -f CMakeFiles/javr.dir/objects.a
+/usr/bin/i686-w64-mingw32-ar cr CMakeFiles/javr.dir/objects.a @CMakeFiles/javr.dir/objects1.rsp
+/usr/bin/i686-w64-mingw32-g++  -g -Wall  -static-libstdc++ -static-libgcc -Wl,--whole-archive CMakeFiles/javr.dir/objects.a -Wl,--no-whole-archive  -o javr.exe -Wl,--out-implib,libjavr.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles/javr.dir/linklibs.rsp

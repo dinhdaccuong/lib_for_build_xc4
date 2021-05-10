@@ -1,0 +1,3 @@
+/usr/bin/cmake -E remove -f CMakeFiles/jedecparse.dir/objects.a
+/usr/bin/i686-w64-mingw32-ar cr CMakeFiles/jedecparse.dir/objects.a @CMakeFiles/jedecparse.dir/objects1.rsp
+/usr/bin/i686-w64-mingw32-g++  -g -Wall  -static-libstdc++ -static-libgcc -Wl,--whole-archive CMakeFiles/jedecparse.dir/objects.a -Wl,--no-whole-archive  -o jedecparse.exe -Wl,--out-implib,libjedecparse.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles/jedecparse.dir/linklibs.rsp

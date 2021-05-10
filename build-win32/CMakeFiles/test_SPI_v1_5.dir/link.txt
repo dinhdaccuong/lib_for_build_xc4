@@ -1,0 +1,3 @@
+/usr/bin/cmake -E remove -f CMakeFiles/test_SPI_v1_5.dir/objects.a
+/usr/bin/i686-w64-mingw32-ar cr CMakeFiles/test_SPI_v1_5.dir/objects.a @CMakeFiles/test_SPI_v1_5.dir/objects1.rsp
+/usr/bin/i686-w64-mingw32-g++  -g -Wall  -static-libstdc++ -static-libgcc -Wl,--whole-archive CMakeFiles/test_SPI_v1_5.dir/objects.a -Wl,--no-whole-archive  -o test_SPI_v1_5.exe -Wl,--out-implib,libtest_SPI_v1_5.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles/test_SPI_v1_5.dir/linklibs.rsp

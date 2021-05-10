@@ -1,0 +1,3 @@
+/usr/bin/cmake -E remove -f CMakeFiles/srecparse.dir/objects.a
+/usr/bin/i686-w64-mingw32-ar cr CMakeFiles/srecparse.dir/objects.a @CMakeFiles/srecparse.dir/objects1.rsp
+/usr/bin/i686-w64-mingw32-g++  -g -Wall  -static-libstdc++ -static-libgcc -Wl,--whole-archive CMakeFiles/srecparse.dir/objects.a -Wl,--no-whole-archive  -o srecparse.exe -Wl,--out-implib,libsrecparse.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles/srecparse.dir/linklibs.rsp
